@@ -1,5 +1,4 @@
 def File
-  def some_method
+  def start
   end
-
 end
